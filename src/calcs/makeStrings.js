@@ -3,6 +3,8 @@ const checkAge = (obj) => {
     console.log(obj)
     if(obj.age > 18){
         result.push(obj.name + "is good")
+    }  else {
+                    result.push(obj.name + "is to young")
     }
     return result
 }
