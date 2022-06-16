@@ -4,6 +4,4 @@ export const namesOnly = (arr) => {
     const prepared = result.map((x, k) => <p key={k}>{x}</p>)
     console.log(prepared)
     return prepared
-
-
 }
