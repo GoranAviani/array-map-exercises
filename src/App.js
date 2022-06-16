@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import first from 'calcs/first'
+import first from './calcs/first'
 
 
 function App() {
