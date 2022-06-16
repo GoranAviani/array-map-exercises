@@ -1,7 +1,7 @@
 
 
 const first = (arr) => {
-const mapped = arr.map(x => x * 2)
+const mapped = arr.map(x => <p> {x * 2}</p>)
     return mapped
 
 }
