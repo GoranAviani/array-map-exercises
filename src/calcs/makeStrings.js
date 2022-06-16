@@ -1,5 +1,6 @@
 const checkAge = (obj) => {
     let result = []
+    console.log(obj)
 
 }
 

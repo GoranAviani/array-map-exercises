@@ -3,6 +3,7 @@ import first from './calcs/first'
 import {stringItUp} from "./calcs/stringItUp";
 import {capitalizeNames} from "./calcs/capitalizeNames";
 import {namesOnly} from "./calcs/namesOnly";
+import {makeStrings} from "./calcs/makeStrings";
 
 function App() {
     console.log(first([2, 5, 100])); // [4, 10, 200]
