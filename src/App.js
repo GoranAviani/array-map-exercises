@@ -8,9 +8,11 @@ function App() {
 
 
 
+
   return (
     <div className="App">
      app
+        {first([2, 5, 100])}
     </div>
   );
 }
